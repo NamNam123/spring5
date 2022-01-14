@@ -173,7 +173,7 @@
       <module name="taco-cloud (1)" target="1.8" />
       <module name="taco-cloud (10)" target="1.5" />
       <module name="taco-cloud (11)" target="1.5" />
-      <module name="taco-cloud (2)" target="1.5" />
+      <module name="taco-cloud (2)" target="1.8" />
       <module name="taco-cloud (3)" target="1.8" />
       <module name="taco-cloud (4)" target="1.5" />
       <module name="taco-cloud (5)" target="1.5" />
@@ -262,6 +262,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="taco-cloud" options="-parameters" />
       <module name="taco-cloud (1)" options="-parameters" />
+      <module name="taco-cloud (2)" options="-parameters" />
       <module name="taco-cloud (3)" options="-parameters" />
     </option>
   </component>
